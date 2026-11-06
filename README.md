@@ -1,6 +1,3 @@
-# airbnb_project
-Airbnb Data Warehouse and EDA
-
 # Airbnb European Cities: Scraping, Data Warehouse & Power BI Dashboard
 
 An end-to-end data project: scrape Airbnb listings for 10 European cities with Selenium, load them into a SQL Server data warehouse using a Bronze / Silver / Gold (medallion) architecture, and explore the results in a Power BI dashboard.
